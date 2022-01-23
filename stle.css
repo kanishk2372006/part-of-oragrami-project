@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Luxurious+Roman&family=Mochiy+Pop+P+One&family=Neonderthaw&family=Roboto:wght@100&display=swap');
+
+
+
+.head{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   color: rgb(0, 0, 0);
+   font-family: 'Dongle', sans-serif;
+   font-size: 200%;
+   background-color: #B2D8D7;
+   border-radius: 20px;
+}
+.oragrami{
+background-color:teal;
+padding: 20px;
+border-radius: 20px;
+justify-content: center;
+text-align: center;
+display: flex;
+flex-direction: row;
+}
+.imgprop:hover{
+transform: scale(1.2);
+}
+.imp{
+
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10%;
+    background-color: black;
+}
